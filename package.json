@@ -1,0 +1,25 @@
+{
+  "name": "mqtt-tigusan.herokuapp.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jatigusan12/Mqtt-Tigusan.herokuapp.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jatigusan12/Mqtt-Tigusan.herokuapp.com/issues"
+  },
+  "homepage": "https://github.com/Jatigusan12/Mqtt-Tigusan.herokuapp.com#readme",
+  "engines": {
+    "node": "10.15"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
